@@ -105,3 +105,6 @@ ENV/
 
 #db sqlite stuff
 *.sqlite3
+
+#pythonanywhere stuff
+static/
